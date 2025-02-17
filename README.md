@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🚀 Sobre Mim
 
-<!--
-**josepaulos/josepaulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou José Paulo Sappi! 👋
+Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento e manutenção de sistemas web, buscando sempre entregar soluções eficientes e escaláveis.
 
-Here are some ideas to get you started:
+## 💻 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ **Linguagens e Frameworks:**
+- PHP, JavaScript, TypeScript, Python, Java
+- Angular, Bootstrap, Tailwind CSS
+
+✅ **Banco de Dados:**
+- MySQL, SQL Server, PHPMyAdmin
+
+✅ **Ferramentas e Metodologias:**
+- Git, Scrum, Kanban, WordPress (Elementor)
+- Servidores Web (Apache/Nginx)
+
+## 🎯 O que me diferencia?
+
+🔹 Capacidade de aprendizado rápido e adaptação a novas tecnologias.  
+🔹 Experiência com levantamento de requisitos e otimização de processos.  
+🔹 Trabalho em equipe e comunicação eficiente para entregar soluções de qualidade.  
+
+## 📫 Contato
+
+📧 E-mail: bartolopaes@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/josepaulosappi)  
+
+Estou sempre aberto a novas oportunidades e projetos desafiadores! Vamos conectar? 🚀
+
