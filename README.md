@@ -7,7 +7,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Tenh
 
 ✅ **Linguagens e Frameworks:**
 - PHP, JavaScript, TypeScript, Python, Java
-- Angular, Bootstrap, Tailwind CSS
+- Angular, Bootstrap, Tailwind CSS, Springboot
 
 ✅ **Banco de Dados:**
 - MySQL, SQL Server, PHPMyAdmin
