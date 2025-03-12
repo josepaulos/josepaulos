@@ -25,7 +25,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Tenh
 ## 📫 Contato
 
 📧 E-mail: bartolopaes@gmail.com  
-💼 [LinkedIn](linkedin.com/in/josé-paulo-sappi-68477a223)  
+💼 [LinkedIn](https://www.linkedin.com/in/josé-paulo-sappi-68477a223)  
 
 Estou sempre aberto a novas oportunidades e projetos desafiadores! Vamos conectar? 🚀
 
